@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Model weights
+*.pt
+yolov8n.pt
+yolov8s.pt
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
